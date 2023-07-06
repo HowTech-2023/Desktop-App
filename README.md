@@ -71,3 +71,8 @@ Credits to individuals or resources that contributed to the development of the a
 
 Any disclaimers or legal notices related to the app. ⚠️
 
+### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+---
+
+
+---
