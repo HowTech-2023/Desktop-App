@@ -64,15 +64,15 @@ Information about the app's license and any terms of use. 📄
 Credits to individuals or resources that contributed to the development of the app. 🙌
 
 - [Author's GitHub Profile](https://github.com/Liquefy7822)
-- [Library Used for DMG creation](https://github.com/sindresorhus/create-dmg)
-- [Library USed for Desktop apps](https://github.com/ParthJadhav/Tkinter-Designer)
+- [Thanks to @sindresorhus for create-dmg, which we used for the macos app.](https://github.com/sindresorhus/create-dmg)
+- [Thanks to @ParthJadhav for Tkinter](https://github.com/ParthJadhav/Tkinter-Designer)
+- [Library Used for DMG creation of Image](http://www.graphicsmagick.org/)
 
 ## Disclaimer
 
 Any disclaimers or legal notices related to the app. ⚠️
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
-[![GitHub stars](https://img.shields.io/github/stars/Liquefy7822/InooFest-2023.svg)](https://github.com/Liquefy7822/InnoFest-2023/stargazers)
 
 ---
 
