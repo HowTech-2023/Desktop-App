@@ -40,12 +40,15 @@ You can download the app directly from GitHub as a zip file.
 ## For Macos
 You can download a DMG. 
 #### There is also a terminal installation. 
-`curl -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.dmg`
+```
+curl -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.dmg
+```
 ## For Windows
 You can download the .exe file 
 #### There is also a commandline installation
-`curl.exe -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.exe`
-`
+```
+curl.exe -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.exe`
+```
 
 ---
 ## Usage
@@ -86,7 +89,7 @@ Credits to individuals or resources that contributed to the development of the a
 - [Author's GitHub Profile](https://github.com/Liquefy7822)
 - [Thanks to @sindresorhus for create-dmg, which we used for the macos app.](https://github.com/sindresorhus/create-dmg)
 - [Thanks to @ParthJadhav for Tkinter](https://github.com/ParthJadhav/Tkinter-Designer)
-- [Library Used for DMG creation of Image](http://www.graphicsmagick.org/)
+- [Where I learned to make DMGs](https://medium.com/@arulmurugan_s/how-to-create-a-dmg-with-custom-background-for-a-mac-app-f54e7539dee)
 
 ## Disclaimer
 
