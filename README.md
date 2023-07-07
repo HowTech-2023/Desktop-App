@@ -1,16 +1,30 @@
-# Desktop App
+![](https://github.com/HowTech-2023/Desktop-App/assets/127311695/89681346-0f6a-4c34-9c9a-2e9ad1df4ea7)
 
+# Desktop App
+---
 ## Description
+---
+**Supported platforms**
+
+- [x] windows
+- [x] macos
+- [x] linux
+- [ ] android
+- [x] ios
+- [ ] web
+- [ ] docker
+
+[Download](https://github.com/HowTech-2023/Desktop-App/releases/latest)
 
 Desktop app for the  _____ app  ✨📱
-
+---
 ## Features
 
 - Feature 1: Description of feature 1. ✅
 - Feature 2: Description of feature 2. 🚀
 - Feature 3: Description of feature 3. ⚡️
 - ...
-
+---
 ## Screenshots
 
 ![Screenshot 1](/path/to/screenshot1.png)
@@ -20,14 +34,20 @@ Desktop app for the  _____ app  ✨📱
 *Caption for Screenshot 2.*
 
 ## Installation
-
+---
 Instructions on how to install and set up the app. 📥
 You can download the app directly from GitHub as a zip file. 
-### For Macos
-you can download a DMG. 
-#### There is also a homebrew installation. 
+## For Macos
+You can download a DMG. 
+#### There is also a terminal installation. 
+`curl -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.dmg`
+## For Windows
+You can download the .exe file 
+#### There is also a commandline installation
+`curl.exe -LO https://github.com/HowTech-2023/Desktop-App/releases/download/vtest/test.exe`
+`
 
-
+---
 ## Usage
 
 Guidelines on how to use the app and its various features. 📚
