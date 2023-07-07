@@ -3,6 +3,8 @@
 # Desktop App
 ---
 ## Description
+
+This is the desktop app which is written in `python`. The GUI is made using [Tkniter](https://github.com/ParthJadhav/Tkinter-Designer). Was coded in Pycharm. 
 ---
 **Supported platforms**
 
